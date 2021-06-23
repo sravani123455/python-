@@ -1,0 +1,18 @@
+a={1,2,3,4,5}
+b={4,5,6,7,8}
+#union operation
+a.union(b)
+(or)
+a|b
+#intersection operation
+a.intersection(b)
+(or)
+a&b
+#set difference operation
+a.difference(b)
+(or)
+a-b
+#symmetric_difference operation
+a.symmetric_difference(b)
+(or)
+a^b
